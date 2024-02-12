@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SDH_TZ_Kravchenko/static/css/main.77d23897.css",
+    "main.js": "/SDH_TZ_Kravchenko/static/js/main.580da9eb.js",
+    "static/media/logo.svg": "/SDH_TZ_Kravchenko/static/media/logo.c8e476e646fda6cb88eadbb63b0e7e92.svg",
+    "static/media/practice_icon.svg": "/SDH_TZ_Kravchenko/static/media/practice_icon.6903f09fb0feff725b723198ea515a70.svg",
+    "static/media/cloud_icon.svg": "/SDH_TZ_Kravchenko/static/media/cloud_icon.ef9d6e887cf71ad17bdd083ff9aa9851.svg",
+    "static/media/apple_icon.svg": "/SDH_TZ_Kravchenko/static/media/apple_icon.853d5b76eed60bf4b2ad019e18de9171.svg",
+    "static/media/lock_icon.svg": "/SDH_TZ_Kravchenko/static/media/lock_icon.b3676ae4fe4b08e847a6c174b6d8cecf.svg",
+    "index.html": "/SDH_TZ_Kravchenko/index.html",
+    "static/media/user_mob_icon.svg": "/SDH_TZ_Kravchenko/static/media/user_mob_icon.299ce4e739260902810962c88e4a51c9.svg",
+    "static/media/user_icon.svg": "/SDH_TZ_Kravchenko/static/media/user_icon.ec8343cf86ce62c6233d1d38122b82fa.svg",
+    "static/media/framed_arrow_icon.svg": "/SDH_TZ_Kravchenko/static/media/framed_arrow_icon.46694794812a32da980b0ddf4c6980a4.svg",
+    "static/media/done_icon.svg": "/SDH_TZ_Kravchenko/static/media/done_icon.d1aed595316ae685d5b7b43f72694b66.svg",
+    "static/media/simple_arrow_icon.svg": "/SDH_TZ_Kravchenko/static/media/simple_arrow_icon.3a50174992c54c2c414b39469622eb7d.svg",
+    "main.77d23897.css.map": "/SDH_TZ_Kravchenko/static/css/main.77d23897.css.map",
+    "main.580da9eb.js.map": "/SDH_TZ_Kravchenko/static/js/main.580da9eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77d23897.css",
+    "static/js/main.580da9eb.js"
+  ]
+}
