@@ -8,7 +8,6 @@ export const PhaseHeaderWrapper = styled.div`
     padding: 0 1.25rem 0 1.56rem;
     background-color: ${({ isactive }) => (isactive ? redColor : grayColor)};
     border-radius: ${({ isactive }) => (isactive ? '0.31rem 0.31rem 0 0' : '0.31rem')};
-    cursor: pointer;
 `;
 
 export const PhaseTitleWrapper = styled.div`
