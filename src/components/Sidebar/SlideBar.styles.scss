@@ -1,0 +1,10 @@
+@import "../../assets/styles/variables.js";
+@import "../../assets/styles/mixins";
+
+.side-bar__container {
+  box-sizing: border-box;
+  width: 260px;
+  height: 100vh;
+  padding: 30px;
+  //background-color: $gray;
+}

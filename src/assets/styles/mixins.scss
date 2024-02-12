@@ -1,0 +1,45 @@
+// align items center
+@mixin align {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+$base-font-size: 16px;
+// pixel to rem
+@function px-to-rem ($target, $context: $base-font-size) {
+  @return ($target / $context) * 1rem;
+}
+
+// Media Queries
+@mixin device {
+  @media screen and (max-width: 1200px) {
+    @content;
+  }
+}
+
+@mixin laptop {
+  @media screen and (max-width: 1024px) {
+    @content;
+  }
+}
+
+// tablets
+@mixin tablets {
+  @media screen and (max-width: 768px) {
+    @content;
+  }
+}
+
+// phones sizes
+@mixin phones {
+  @media screen and (max-width: 425px) {
+    @content;
+  }
+}
+
+@mixin smallPhone {
+  @media screen and (max-width: 375px) {
+    @content;
+  }
+}
